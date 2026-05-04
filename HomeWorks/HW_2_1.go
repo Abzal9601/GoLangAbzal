@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 //1st exercise
 
 // func main() {
@@ -57,14 +55,14 @@ import "fmt"
 
 //5th exercise
 
-func main() {
+// func main() {
 
-	const notPi = 1.3455555
+// 	const breakTime = 15
 
-	fmt.Println(notPi)
+// 	fmt.Println(notPi)
 
-	notPi = 3.14
+// breakTime = 3.14   //Констатнта неизменна на протяжении всего времени после ее создания
 
-	fmt.Println(notPi)
+// 	fmt.Println(breakTime)
 
-}
+// }
